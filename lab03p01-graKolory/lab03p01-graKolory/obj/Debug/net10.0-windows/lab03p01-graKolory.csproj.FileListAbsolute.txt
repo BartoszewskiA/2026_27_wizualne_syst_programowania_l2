@@ -1,0 +1,17 @@
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab03p01-graKolory\lab03p01-graKolory\bin\Debug\net10.0-windows\lab03p01-graKolory.exe
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab03p01-graKolory\lab03p01-graKolory\bin\Debug\net10.0-windows\lab03p01-graKolory.deps.json
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab03p01-graKolory\lab03p01-graKolory\bin\Debug\net10.0-windows\lab03p01-graKolory.runtimeconfig.json
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab03p01-graKolory\lab03p01-graKolory\bin\Debug\net10.0-windows\lab03p01-graKolory.dll
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab03p01-graKolory\lab03p01-graKolory\bin\Debug\net10.0-windows\lab03p01-graKolory.pdb
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab03p01-graKolory\lab03p01-graKolory\obj\Debug\net10.0-windows\lab03p01_graKolory.Form1.resources
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab03p01-graKolory\lab03p01-graKolory\obj\Debug\net10.0-windows\lab03p01-graKolory.csproj.GenerateResource.cache
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab03p01-graKolory\lab03p01-graKolory\obj\Debug\net10.0-windows\lab03p01-graKolory.GeneratedMSBuildEditorConfig.editorconfig
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab03p01-graKolory\lab03p01-graKolory\obj\Debug\net10.0-windows\lab03p01-graKolory.AssemblyInfoInputs.cache
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab03p01-graKolory\lab03p01-graKolory\obj\Debug\net10.0-windows\lab03p01-graKolory.AssemblyInfo.cs
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab03p01-graKolory\lab03p01-graKolory\obj\Debug\net10.0-windows\lab03p01-graKolory.csproj.CoreCompileInputs.cache
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab03p01-graKolory\lab03p01-graKolory\obj\Debug\net10.0-windows\lab03p01-graKolory.dll
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab03p01-graKolory\lab03p01-graKolory\obj\Debug\net10.0-windows\refint\lab03p01-graKolory.dll
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab03p01-graKolory\lab03p01-graKolory\obj\Debug\net10.0-windows\lab03p01-graKolory.pdb
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab03p01-graKolory\lab03p01-graKolory\obj\Debug\net10.0-windows\lab03p01-graKolory.genruntimeconfig.cache
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab03p01-graKolory\lab03p01-graKolory\obj\Debug\net10.0-windows\ref\lab03p01-graKolory.dll
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab03p01-graKolory\lab03p01-graKolory\obj\Debug\net10.0-windows\lab03p01.7D58DC2C.Up2Date

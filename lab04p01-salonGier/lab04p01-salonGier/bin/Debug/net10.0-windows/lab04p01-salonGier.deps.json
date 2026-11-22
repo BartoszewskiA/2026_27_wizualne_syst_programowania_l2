@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "lab04p01-salonGier/1.0.0": {
+        "runtime": {
+          "lab04p01-salonGier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab04p01-salonGier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

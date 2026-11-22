@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\== PROGRAMOWANIE ==\\2026-27\\2026_27_wizualne_syst_programowania_L2\\lab03p01-graKolory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90F99F6F-8E75-402D-B654-3FD991F54D8B}|lab03p01-graKolory\\lab03p01-graKolory.csproj|c:\\== programowanie ==\\2026-27\\2026_27_wizualne_syst_programowania_l2\\lab03p01-grakolory\\lab03p01-grakolory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F99F6F-8E75-402D-B654-3FD991F54D8B}|lab03p01-graKolory\\lab03p01-graKolory.csproj|solutionrelative:lab03p01-grakolory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F99F6F-8E75-402D-B654-3FD991F54D8B}|lab03p01-graKolory\\lab03p01-graKolory.csproj|c:\\== programowanie ==\\2026-27\\2026_27_wizualne_syst_programowania_l2\\lab03p01-grakolory\\lab03p01-grakolory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90F99F6F-8E75-402D-B654-3FD991F54D8B}|lab03p01-graKolory\\lab03p01-graKolory.csproj|solutionrelative:lab03p01-grakolory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\== PROGRAMOWANIE ==\\2026-27\\2026_27_wizualne_syst_programowania_L2\\lab03p01-graKolory\\lab03p01-graKolory\\Form1.cs",
+              "RelativeDocumentMoniker": "lab03p01-graKolory\\Form1.cs",
+              "ToolTip": "C:\\== PROGRAMOWANIE ==\\2026-27\\2026_27_wizualne_syst_programowania_L2\\lab03p01-graKolory\\lab03p01-graKolory\\Form1.cs*",
+              "RelativeToolTip": "lab03p01-graKolory\\Form1.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwDMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T15:29:25.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\== PROGRAMOWANIE ==\\2026-27\\2026_27_wizualne_syst_programowania_L2\\lab03p01-graKolory\\lab03p01-graKolory\\Form1.cs",
+              "RelativeDocumentMoniker": "lab03p01-graKolory\\Form1.cs",
+              "ToolTip": "C:\\== PROGRAMOWANIE ==\\2026-27\\2026_27_wizualne_syst_programowania_L2\\lab03p01-graKolory\\lab03p01-graKolory\\Form1.cs [Projekt]*",
+              "RelativeToolTip": "lab03p01-graKolory\\Form1.cs [Projekt]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T15:20:39.455Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

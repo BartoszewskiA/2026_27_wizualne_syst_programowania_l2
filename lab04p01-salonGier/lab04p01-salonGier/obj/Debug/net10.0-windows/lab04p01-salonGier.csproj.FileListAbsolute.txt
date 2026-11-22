@@ -1,0 +1,17 @@
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab04p01-salonGier\lab04p01-salonGier\bin\Debug\net10.0-windows\lab04p01-salonGier.exe
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab04p01-salonGier\lab04p01-salonGier\bin\Debug\net10.0-windows\lab04p01-salonGier.deps.json
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab04p01-salonGier\lab04p01-salonGier\bin\Debug\net10.0-windows\lab04p01-salonGier.runtimeconfig.json
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab04p01-salonGier\lab04p01-salonGier\bin\Debug\net10.0-windows\lab04p01-salonGier.dll
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab04p01-salonGier\lab04p01-salonGier\bin\Debug\net10.0-windows\lab04p01-salonGier.pdb
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab04p01-salonGier\lab04p01-salonGier\obj\Debug\net10.0-windows\lab04p01_salonGier.Form1.resources
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab04p01-salonGier\lab04p01-salonGier\obj\Debug\net10.0-windows\lab04p01-salonGier.csproj.GenerateResource.cache
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab04p01-salonGier\lab04p01-salonGier\obj\Debug\net10.0-windows\lab04p01-salonGier.GeneratedMSBuildEditorConfig.editorconfig
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab04p01-salonGier\lab04p01-salonGier\obj\Debug\net10.0-windows\lab04p01-salonGier.AssemblyInfoInputs.cache
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab04p01-salonGier\lab04p01-salonGier\obj\Debug\net10.0-windows\lab04p01-salonGier.AssemblyInfo.cs
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab04p01-salonGier\lab04p01-salonGier\obj\Debug\net10.0-windows\lab04p01-salonGier.csproj.CoreCompileInputs.cache
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab04p01-salonGier\lab04p01-salonGier\obj\Debug\net10.0-windows\lab04p01-salonGier.dll
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab04p01-salonGier\lab04p01-salonGier\obj\Debug\net10.0-windows\refint\lab04p01-salonGier.dll
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab04p01-salonGier\lab04p01-salonGier\obj\Debug\net10.0-windows\lab04p01-salonGier.pdb
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab04p01-salonGier\lab04p01-salonGier\obj\Debug\net10.0-windows\lab04p01-salonGier.genruntimeconfig.cache
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab04p01-salonGier\lab04p01-salonGier\obj\Debug\net10.0-windows\ref\lab04p01-salonGier.dll
+C:\== PROGRAMOWANIE ==\2026-27\2026_27_wizualne_syst_programowania_L2\lab04p01-salonGier\lab04p01-salonGier\obj\Debug\net10.0-windows\lab04p01.1D9B1378.Up2Date
